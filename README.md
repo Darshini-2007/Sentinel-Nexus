@@ -4,7 +4,7 @@ An AI-inspired web application that simulates disaster prediction and response u
 
 ## Demo
 
-![App Screenshot](images/demo.png)
+https://69b69dca767823c91af42a7b--boisterous-pixie-6ce13a.netlify.app/
 
 ## Features
 - Live risk field canvas with hazard switching
